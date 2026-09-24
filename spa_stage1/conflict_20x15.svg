@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1900" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<text x="60" y="50" font-size="17" font-weight="bold">ПРОВЕРКА ИСХОДНОЙ СХЕМЫ: здание 20.00 × 15.00, зал 13.0 × 15.0 (по осям)</text>
+<rect x="90.0" y="90.0" width="2000.0" height="1500.0" fill="#f4f4f4" stroke="#111" stroke-width="3"/>
+<rect x="800.0" y="120.0" width="1260.0" height="1440.0" fill="#e6f4fc" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="120.0" y="120.0" width="660.0" height="1440.0" fill="#f6efdd" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="930.0" y="340.0" width="1000.0" height="1000.0" fill="#4db3e6" stroke="#1a7fb8" stroke-width="3" stroke-dasharray="10 6"/>
+<text x="1430.0" y="810.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#fff">БАССЕЙН 10×10</text>
+<text x="440.0" y="810.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" transform="rotate(-90 440.0 810.0)">СЕРВИСНО-БАННЫЙ БЛОК</text>
+<text x="1430.0" y="180.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#c00">боковой проход: 2.20 м  ✗ (треб. 2.50)</text>
+<text x="1430.0" y="1435.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#c00">2.20 м  ✗</text>
+<text x="855.0" y="810.0" font-size="12" text-anchor="middle" font-weight="bold" fill="#c00" transform="rotate(-90 855.0 810.0)">1.25 ✗</text>
+<text x="1995.0" y="810.0" font-size="12" text-anchor="middle" font-weight="bold" fill="#c00" transform="rotate(-90 1995.0 810.0)">1.25 ✗</text>
+<text x="1430.0" y="1660.0" font-size="12" text-anchor="middle" font-weight="bold" fill="#111">13.00 (по осям)</text>
+<text x="30.0" y="810.0" font-size="12" text-anchor="middle" font-weight="bold" fill="#111" transform="rotate(-90 30.0 810.0)">15.00 (по осям)</text>
+<text x="2130" y="130" font-size="14" font-weight="bold" fill="#c00">ИТОГ ПРОВЕРКИ: ОШИБКА</text>
+<text x="2130" y="165" font-size="12" fill="#111">Чистый габарит зала: 12.50 × 14.40 м</text>
+<text x="2130" y="183" font-size="12" fill="#111">(осевые 13.0 и 15.0 минус стены 200/300)</text>
+<text x="2130" y="201" font-size="12" fill="#111"></text>
+<text x="2130" y="219" font-size="12" fill="#c00">Торцевые проходы: 1.25 / 1.25 м  < 1.50  ✗</text>
+<text x="2130" y="237" font-size="12" fill="#c00">Боковые проходы:  2.20 / 2.20 м  < 2.50  ✗</text>
+<text x="2130" y="255" font-size="12" fill="#111"></text>
+<text x="2130" y="273" font-size="12" fill="#111">Боковые 2.50 м с двух сторон требуют</text>
+<text x="2130" y="291" font-size="12" fill="#111">чистой глубины 10.00+2.50+2.50 = 15.00 м,</text>
+<text x="2130" y="309" font-size="12" fill="#111">а всё здание даёт максимум 14.40 м.</text>
+<text x="2130" y="327" font-size="12" fill="#111">=> В 15.0 м глубины требование проходов</text>
+<text x="2130" y="345" font-size="12" fill="#111">   не выполняется ни при какой планировке.</text>
+<text x="2130" y="363" font-size="12" fill="#111"></text>
+<text x="2130" y="381" font-size="12" fill="#111">Альтернатива (боковые 2.50 по ширине 20 м):</text>
+<text x="2130" y="399" font-size="12" fill="#111">зал 15.50 м осевых → блок всего 4.50 м,</text>
+<text x="2130" y="417" font-size="12" fill="#111">программа ~80 м² туда не помещается (57.6 м²).</text>
+<text x="2130" y="435" font-size="12" fill="#111"></text>
+<text x="2130" y="453" font-size="12" fill="#111">Бюджет согласованной схемы: ≈ 356 м².</text>
+<text x="2130" y="471" font-size="12" fill="#c00">ВЫВОД: глубина 15.00 → 17.80 м</text>
+<text x="2130" y="489" font-size="12" fill="#111">(см. план СХ-1) либо сокращать программу.</text>
+</svg>
