@@ -1,0 +1,4 @@
+faces/
+tmp/
+*.pyc
+__pycache__/
